@@ -1,0 +1,9 @@
+Albumentations
+tqdm
+image
+torchmetrics
+PIL
+Kornia
+Tensorboard
+libraries used in the supporting files shared for CNN implementation
+PyWavelets
